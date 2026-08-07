@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Three.js-2563eb?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/> <img src="https://img.shields.io/badge/Vue.js-1e3a8a?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/React-38bdf8?style=flat-square&logo=react&logoColor=0b0f19" alt="React"/> <img src="https://img.shields.io/badge/Node.js-0ea5e9?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
       <br/><br/>
       <span style="color:#38bdf8;"><b>Focus</b></span><br/>
-      • Currently: <img src="https://img.shields.io/badge/Rust-2563eb?style=flat-square&logo=rust&logoColor=white" alt="Rust"/> <img src="https://img.shields.io/badge/C%23-0ea5e9?style=flat-square&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Ruby-38bdf8?style=flat-square&logo=ruby&logoColor=0b0f19" alt="Ruby"/><br/>
+      • Currently: <img src="https://img.shields.io/badge/Rust-2563eb?style=flat-square&logo=rust&logoColor=white" alt="Rust"/><img src="https://img.shields.io/badge/Ruby-38bdf8?style=flat-square&logo=ruby&logoColor=0b0f19" alt="Ruby"/><br/>
       • Upcoming: <img src="https://img.shields.io/badge/C-1e3a8a?style=flat-square&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Assembly-38bdf8?style=flat-square&logo=assemblyscript&logoColor=0b0f19" alt="Assembly"/>
       <br/><br/>
       <span style="color:#38bdf8;"><b>Palette</b></span><br/>
